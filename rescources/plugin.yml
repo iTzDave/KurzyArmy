@@ -1,0 +1,62 @@
+name: KurzyArmy
+author: byZerian
+version: 1.0
+
+main: de.zerian.m.Kurzy
+
+commands:
+  tphere:
+    usage:
+  chat:
+    usage:
+  bc:
+    usage:
+    aliases: [broadcast]
+  tp:
+    usage:
+  tpall:
+    usage:
+  day:
+    usage:
+  night:
+    usage:
+  fly:
+    usage:
+  gm:
+    usage:
+    aliases: [gamemode]
+  setspawn:
+    usage:
+  spawn:
+    usage:
+  kill:
+    usage:
+  tpa:
+    usage:
+  warp:
+    usage:
+  setwarp:
+    usage:
+  delwarp:
+    usage:
+  vanish:
+    usage:
+    aliases: [v]
+  tc:
+    usage:
+  heal:
+    usage:
+  enderchest:
+    usage:
+  invsee:
+    usage:
+  clear:
+    usage:
+  sethome:
+    usage:
+  home:
+    usage:
+  tpaaccept:
+    usage:
+  tpadeny:
+    usage:
